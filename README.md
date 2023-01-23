@@ -8,6 +8,7 @@ I've been learning to code for 2 years, after my bachelors in Electronics & Comm
 
 * 🌍  I'm based in Jhansi, Uttar Pradesh, India
 * ✉️  You can contact me at [kumar.akshat29@gmail.com](mailto:kumar.akshat29@gmail.com)
+* 🖥️  See my portfolio [Akshat Portfolio][https://silly-dragon-2adb1a.netlify.app/]
 * 🧠  I'm learning everything in JavaScript
 
 ### Skills
