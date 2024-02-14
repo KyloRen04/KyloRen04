@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been learning to code for 2 years, after my bachelors in Electronics & Communication. I started with HTML & CSS, but have really found a passion for backend development. I started my career in web development as a Backend Developer Intern and currently I'm a full time Software Developer.
+I've been learning to code for 2 years, after my bachelors in Electronics & Communication. I started with HTML & CSS, but have really found a passion for web development. I started my career in web development as a Frontend Web Developer Intern and currently I'm a full time Software Engineer Frontend.
 
 * 🌍  I'm based in Jhansi, Uttar Pradesh, India
 * ✉️  You can contact me at [kumar.akshat29@gmail.com](mailto:kumar.akshat29@gmail.com)
