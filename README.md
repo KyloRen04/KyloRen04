@@ -8,7 +8,7 @@ I've been learning to code for 2 years, after my bachelors in Electronics & Comm
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [kumar.akshat29@gmail.com](mailto:kumar.akshat29@gmail.com)
-* 🖥️  See my portfolio at [Akshat Portfolio](https://rainbow-piroshki-0069fa.netlify.app/)
+* 🖥️  See my portfolio at [Akshat Portfolio](https://kyloren.netlify.app/)
 * 🧠  I'm learning everything in JavaScript
 
 ### Skills
