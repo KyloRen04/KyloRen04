@@ -6,7 +6,7 @@ Web Developer
 
 I've been learning to code for 3 years, after my bachelors in Electronics & Communication. I started with HTML & CSS, but have really found a passion for web development. I started my career in web development as a Frontend Web Developer Intern and currently I'm a full time Software Engineer Frontend.
 
-* 🌍  I'm based in New Delhi, India
+* 🌍  I'm based in Gurugram, India
 * ✉️  You can contact me at [kumar.akshat29@gmail.com](mailto:kumar.akshat29@gmail.com)
 * 🖥️  See my portfolio at [Akshat Portfolio](https://kyloren.netlify.app/)
 * 🧠  I'm learning everything in JavaScript
